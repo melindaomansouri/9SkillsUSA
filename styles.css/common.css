@@ -3,12 +3,13 @@ html{
 }
 p {
  color: black;
+ font-size: 20px;
 }
 
 h1{
 color: white;
 text-align: center;
-   
+font-size: 50px;   
 }
 
 body {
