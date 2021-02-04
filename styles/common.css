@@ -8,8 +8,12 @@ p{
 
 h1{
 color: white;
+display: flex;
+justify-content: space-evenly;
 text-align: center;
 font-size: 50px;   
+}
+h2{
 }
 
 body{
